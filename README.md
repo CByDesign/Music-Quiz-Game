@@ -1,7 +1,7 @@
 # Quiz Muzyczny
 
 ## Opis projektu
-Projekt zrealizowany na studia na przedmiot programowanie niskopoziomowe. Gra muzyczna napisana w języku C, zawierająca różne funkcje, takie jak tabela wyników, inicjalizacja gry, nawigacja w menu oraz obsługa pytań.
+Projekt zrealizowany na studia na przedmiot programowanie niskopoziomowe. Gra muzyczna napisana w języku C z użyciem biblioteki CSFML. Zawiera ona różne funkcje, takie jak tabela wyników, inicjalizacja gry, nawigacja w menu oraz obsługa pytań.
 
 ## Cel projektu
 Celem projektu jest stworzenie gry muzycznej, która pozwala na interakcję użytkownika z różnymi elementami gry, takimi jak pytania muzyczne, tabela wyników oraz zapisywanie stanu gry.
